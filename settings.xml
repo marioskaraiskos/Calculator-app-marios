@@ -17,7 +17,7 @@
                 </repository>
                 <repository>
                     <id>github</id>
-                    <url>https://maven.pkg.github.com/marioskaraiskos/Calculator-app-java</url>
+                    <url>https://maven.pkg.github.com/marioskaraiskos/Calculator-app-marios</url>
                     <snapshots>
                         <enabled>true</enabled>
                     </snapshots>
